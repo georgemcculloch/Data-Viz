@@ -4,7 +4,7 @@ This repository is dedicated to practicing data visualization using various Pyth
 
 # Environment Impact of Food Production with seaborn
 - [Jupyter Notebook](https://github.com/georgemcculloch/Enviroment-Impact-Of-Food-Production/blob/main/food.ipynb)
-- [Visualizations](123.com)
+- [Visualizations](https://github.com/georgemcculloch/Data-Viz/blob/main/Environment-impact/food.ipynb)
 
 # Credit Card Approvals
 - [Jupyter Notebook](https://github.com/georgemcculloch/Data-Viz/blob/main/Credit-Card-Approvals/ccdf.ipynb)
