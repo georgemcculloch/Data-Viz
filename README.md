@@ -7,5 +7,5 @@ This repository is dedicated to practicing data visualization using various Pyth
 - [Visualizations](123.com)
 
 # Credit Card Approvals
-- [Jupyter Notebook](123.com)
-- [Visualizations](123.com)
+- [Jupyter Notebook](https://github.com/georgemcculloch/Data-Viz/blob/main/Credit-Card-Approvals/ccdf.ipynb)
+- [Visualizations](https://github.com/georgemcculloch/Data-Viz/tree/main/Credit-Card-Approvals/images)
